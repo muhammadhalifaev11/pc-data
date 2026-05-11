@@ -4,7 +4,7 @@
     "category": "gpu",
     "brand": "NVIDIA",
     "name": "RTX 2060 Super",
-    "price": 0,
+    "price": 1000,
     "image": "/images/default/black.jpg",
     "length": 230,
     "vramGb": 8,
