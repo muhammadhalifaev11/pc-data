@@ -4,7 +4,7 @@
     "category": "cpu",
     "brand": "Intel",
     "name": "i3-12100",
-    "price": 0,
+    "price": 1000,
     "image": "/images/default/black.jpg",
     "socket": "LGA1700",
     "cores": 4,
