@@ -1,1 +1,27 @@
-[]
+[
+{
+    "id": "kb-gk100f",
+    "brand": "HP",
+    "name": "Механика GK100F RGB",
+    "Type": "Mechanical",
+    "Layout": "Full",
+    "price": 150
+},
+{
+    "id": "kb-kg3809",
+    "brand": "Thurderobot",
+    "name": "Механика KG3809",
+    "Type": "Mechanical",
+    "Layout": "TKL",
+    "price": 200
+},
+{
+    "id": "kb-f2087pro",
+    "brand": "AULA",
+    "name": "Механика F2087PRO с LED 8000mAh",
+    "Type": "Mechanical",
+    "Layout": "TKL",
+    "price": 500
+}
+]
+

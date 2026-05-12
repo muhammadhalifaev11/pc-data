@@ -1,1 +1,27 @@
-[]
+[
+    {
+  "id": "mon-24-240",
+  "brand": "Non-Brand",
+  "name": "Monitor 24",
+  "price": 850,
+  "sizeInch": 24,
+  "resolution": "FHD",
+  "refreshRate": 240,
+  "panel": "IPS",
+  "includedCable": "HDMI",
+  "supportedInputs": ["HDMI", "DP"]
+},
+  {
+  "id": "mon-24-100",
+  "brand": "Non-Brand",
+  "name": "Monitor 24",
+  "price": 600,
+  "sizeInch": 24,
+  "resolution": "FHD",
+  "refreshRate": 100,
+  "panel": "IPS",
+  "includedCable": "HDMI",
+  "supportedInputs": ["HDMI", "DP"]
+}
+]
+

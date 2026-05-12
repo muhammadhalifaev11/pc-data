@@ -1,1 +1,42 @@
-[]
+[
+    {
+  "id": "cool-snowman-mt4v3",
+  "brand": "Snowman",
+  "name": "MT4-V3 RGB",
+  "price": 170,
+  "type": "Air",
+  "supportedSockets": ["LGA1700", "LGA1200", "LGA1151", "LGA1851", "AM4", "AM5"],
+  "coolingPower": 125,
+  "towerHeightMm": 160
+},
+ {
+  "id": "cool-jiuweihu-4d",
+  "brand": "JiuWeiHu",
+  "name": "4D 120mm RGB",
+  "price": 70,
+  "type": "Air",
+  "supportedSockets": ["LGA1700", "LGA1200", "LGA1151", "LGA1851", "AM4", "AM5"],
+  "coolingPower": 100,
+  "towerHeightMm": 160
+},
+ {
+  "id": "cool-lovingcool-240",
+  "brand": "LovingCool",
+  "name": "СЖО 240мм ARGB",
+  "price": 350,
+  "type": "AIO",
+  "supportedSockets": ["LGA1700", "LGA1200", "LGA1151", "LGA1851", "AM4", "AM5"],
+  "coolingPower": 200,
+  "radiatorSize": 240
+},
+ {
+  "id": "cool-lovingcool-360",
+  "brand": "LovingCool",
+  "name": "СЖО 360мм ARGB",
+  "price": 400,
+  "type": "AIO",
+  "supportedSockets": ["LGA1700", "LGA1200", "LGA1151", "LGA1851", "AM4", "AM5"],
+  "coolingPower": 250,
+  "radiatorSize": 360
+}
+]

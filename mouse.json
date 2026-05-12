@@ -1,1 +1,17 @@
-[]
+[
+{
+    "id": "m-sc580",
+    "brand": "AULA",
+    "name": "SC580 BT/WiFi/Type-C 500mAh",
+    "DPI": 12000,
+    "price": 150
+},
+{
+    "id": "m-m280",
+    "brand": "HP",
+    "name": "M280",
+    "DPI": 2400,
+    "price": 70
+}
+]
+

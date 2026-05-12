@@ -1,1 +1,24 @@
-[]
+[
+    {
+  "id": "case-jiuweihu-t3",
+  "brand": "JiuWeiHu",
+  "name": "Корпус мАТХ Т3",
+  "price": 250,
+  "image": "/images/default/black.jpg",
+  "dimensionsCm": { "length": 45, "width": 23, "height": 45 },
+  "formFactors": ["mATX", "ITX"],
+  "maxGpuLength": 340,
+  "maxCpuTowerHeightMm": 170,
+  "supportedRadiatorSizes": [120, 240, 280],
+  "maxFans": 7,
+  "maxFans120mm": 7,
+  "maxFans140mm": 2,
+  "includedFans120mm": 2,
+  "includedFans140mm": 2,
+  "ssdBays": 2,
+  "hddBays": 2,
+  "color": "Чёрный",
+  "supports140mmFans": true
+}
+]
+
