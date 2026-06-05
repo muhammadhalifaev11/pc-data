@@ -1,13 +1,13 @@
 [
-    {
+      {
   "id": "mon-24-240",
-  "brand": "Non-Brand",
-  "name": "Monitor 24",
-  "price": 850,
+  "brand": "LETV",
+  "name": "T24F5V",
+  "price": 800,
   "sizeInch": 24,
   "resolution": "FHD",
   "refreshRate": 240,
-  "panel": "IPS",
+  "panel": "VA",
   "includedCable": "HDMI",
   "supportedInputs": ["HDMI", "DP"]
 },
@@ -15,13 +15,60 @@
   "id": "mon-24-100",
   "brand": "Non-Brand",
   "name": "Monitor 24",
-  "price": 600,
+  "price": 640,
   "sizeInch": 24,
   "resolution": "FHD",
-  "refreshRate": 100,
+  "refreshRate": 120,
   "panel": "IPS",
   "includedCable": "HDMI",
   "supportedInputs": ["HDMI", "DP"]
+},
+  {
+  "id": "mon-27-165",
+  "brand": "Non-Brand",
+  "name": "Monitor 27",
+  "price": 950,
+  "sizeInch": 27,
+  "resolution": "FHD",
+  "refreshRate": 165,
+  "panel": "IPS",
+  "includedCable": "HDMI",
+  "supportedInputs": ["HDMI", "DP"]
+},
+  {
+  "id": "mon-msi-mag-275f",
+  "brand": "MSI",
+  "name": "MAG 275F",
+  "price": 1100,
+  "sizeInch": 27,
+  "resolution": "FHD",
+  "refreshRate": 180,
+  "panel": "Rapid IPS",
+  "includedCable": "HDMI",
+  "supportedInputs": ["HDMI", "DP"]
+},
+  {
+  "id": "mon-msi-mag-255fx24",
+  "brand": "MSI",
+  "name": "MAG 255F X24",
+  "price": 1100,
+  "sizeInch": 24,
+  "resolution": "FHD",
+  "refreshRate": 240,
+  "panel": "Rapid IPS",
+  "includedCable": "HDMI",
+  "supportedInputs": ["HDMI", "DP"]
+},
+  {
+  "id": "mon-msi-mag-274qpf-e20",
+  "brand": "MSI",
+  "name": "MAG 274QPF-E20",
+  "price": 1500,
+  "sizeInch": 27,
+  "resolution": "WQHD",
+  "refreshRate": 200,
+  "panel": "Rapid IPS",
+  "includedCable": "DPI",
+  "supportedInputs": ["HDMI", "DP"]
 }
 ]
-

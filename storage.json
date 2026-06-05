@@ -1,38 +1,67 @@
 [
   {
-    "id": "msi-m2-1tb",
+    "id": "msi-m2-2tb",
     "category": "storage",
     "brand": "MSI",
-    "name": "M.2 NVMe 1TB",
-    "price": 1300,
+    "name": "M.2 NVMe 2TB",
+    "price": 2230,
+    "image": "/images/default/black.jpg",
+    "interface": "M.2 NVMe",
+    "capacityGb": 2000,
+    "readSpeed": 3500,
+    "writeSpeed": 2800,
+    "count": 5
+  },
+  {
+    "id": "msi-m2-1000gb",
+    "category": "storage",
+    "brand": "MSI",
+    "name": "M.2 NVMe 1000GB",
+    "price": 1260,
     "image": "/images/default/black.jpg",
     "interface": "M.2 NVMe",
     "capacityGb": 1000,
-    "readSpeed": 2400,
-    "writeSpeed": 1800
+    "readSpeed": 3200,
+    "writeSpeed": 2800,
+    "count": 7
   },
   {
-    "id": "colorful-m2-512gb",
+    "id": "maxsun-m2-512gb",
     "category": "storage",
-    "brand": "Colorful",
+    "brand": "Maxsun",
     "name": "M.2 NVMe 512GB",
-    "price": 890,
+    "price": 780,
     "image": "/images/default/black.jpg",
     "interface": "M.2 NVMe",
     "capacityGb": 512,
-    "readSpeed": 2400,
-    "writeSpeed": 1600
+    "readSpeed": 3200,
+    "writeSpeed": 2800,
+    "count": 6
+  },
+   {
+    "id": "maxsun-m2-256gb",
+    "category": "storage",
+    "brand": "Maxsun",
+    "name": "M.2 NVMe 256GB",
+    "price": 580,
+    "image": "/images/default/black.jpg",
+    "interface": "M.2 NVMe",
+    "capacityGb": 256,
+    "readSpeed": 3200,
+    "writeSpeed": 2800,
+    "count": 3
   },
   {
     "id": "wd-blue-hdd-500gb",
     "category": "storage",
     "brand": "WD",
     "name": "Blue HDD 500GB",
-    "price": 120,
+    "price": 100,
     "image": "/images/default/black.jpg",
     "interface": "SATA",
     "capacityGb": 500,
     "readSpeed": 150,
-    "writeSpeed": 150
+    "writeSpeed": 150,
+    "count": 30
   }
 ]

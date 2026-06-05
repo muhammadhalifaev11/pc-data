@@ -1,3 +1,5 @@
 [
-    { "id": "fan-4d", "brand": "JiuWeiHu", "name": "4D 120mm RGB", "price": 15, "size": 120 }
+ { "id": "fan-4d", "brand": "JiuWeiHu", "name": "4D 120mm RGB", "price": 15, "size": 120, "count": 100 },
+ { "id": "fan-4pro", "brand": "JiuWeiHu", "name": "4Pro 120mm ARGB", "price": 20, "size": 120, "count": 100 },
+ { "id": "fan-8pro", "brand": "JiuWeiHu", "name": "8Pro 120mm ARGB", "price": 25, "size": 120 }
 ]

@@ -4,6 +4,11 @@
     "brand": "DELI",
     "name": "WebCamera 1080P",
     "price": 170
+},
+{
+    "id": "ac-micro",
+    "brand": "No-brand",
+    "name": "Microphone",
+    "price": 150
 }
 ]
-

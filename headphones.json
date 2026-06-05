@@ -4,6 +4,17 @@
     "brand": "HP",
     "name": "H100 RGB",
     "price": 150
+},
+{
+    "id": "hd-g7pro",
+    "brand": "AULA",
+    "name": "G7 Pro",
+    "price": 300
+},
+{
+    "id": "hd-s611",
+    "brand": "AULA",
+    "name": "S611 RGB",
+    "price": 130
 }
 ]
-

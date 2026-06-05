@@ -1,5 +1,5 @@
 [
-{
+    {
     "id": "m-sc580",
     "brand": "AULA",
     "name": "SC580 BT/WiFi/Type-C 500mAh",
@@ -12,6 +12,19 @@
     "name": "M280",
     "DPI": 2400,
     "price": 70
+},
+{
+    "id": "m-razer",
+    "brand": "Razer",
+    "name": "DeathAdder",
+    "DPI": 6400,
+    "price": 180
+},
+{
+    "id": "m-ml201",
+    "brand": "Thurderobot",
+    "name": "ML201",
+    "DPI": 2400,
+    "price": 110
 }
 ]
-
